@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ofzFY056A1CBIFmFpiTMG/Gfx0dk5BrqA3QU6f1QKhYO+emB1FXk3rTNQ4dncfYfnD3XtzBEFUK4CvKClhGocQ==",
+  "success": true,
+  "projectFilePath": "/home/chetanv/code/webapp/webapp.csproj",
+  "expectedPackageFiles": [
+    "/home/chetanv/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
